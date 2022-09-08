@@ -41,3 +41,7 @@ module.exports = async function ({ getNamedAccounts }) {
 }
 
 module.exports.tags = ["all", "mint"]
+
+// BASIC NFT - 0xe7165234E2a60A94a6E6214f8321E1933BF2da51
+// RANDOM NFT - 0x915D42a49D0C89798C5E0BABfC660F9c2d4D8dAe
+// DYNAMIC NFT - 0xC7b180e4c45d70468474890C8754d9ef581Dbdfd
